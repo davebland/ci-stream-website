@@ -1,5 +1,5 @@
-# My First CI Webpage
+# My First Webpage for the Code Institute
 
-## The Documentation
+## https://davebland.github.io/ci-stream-website/
 
-This is the documentation
+Displays cards over 3 pages with the technologies used in the course.
